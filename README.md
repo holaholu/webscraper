@@ -1,7 +1,7 @@
 
 # WEBSCRAPER - using Python and BeautifulSoup
 
-This code scrapes any webpage provided and saves the result into any desires file. Uses BeautifulSoup & Python. Get images, web-links and many more from any website.
+This code scrapes any webpage provided and saves the result into any desired file. Uses BeautifulSoup & Python. Get images, web-links and many more from any website.
 
 ### HOW TO USE THIS CODE
 This code contains a function that scrapes any webpage provided and saves the result in a file. Function requires three inputs from the user.
