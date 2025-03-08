@@ -32,7 +32,7 @@ def scrape(websiteToScrape, tagToScrape,fileName): #function to scrape a webpage
 
 websiteToScrape = 'https://www.cnn.com/'     #put the url of the website you want to scrape
 tagToScrape = 'img' #use "a" for links, "img" for images, "p" for paragraphs, "h1" for headings, 
-fileName = 'cnnimages.csv'    #put name of the file you want to create
+fileName = 'cnnimages.csv'    #enter name of the file you want to create. [.txt or .csv]
 
 scrape(websiteToScrape, tagToScrape,fileName)     #This does the magic
 
